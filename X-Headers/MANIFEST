@@ -1,0 +1,8 @@
+MANIFEST
+README
+LICENSE
+Todo
+Changes
+Makefile.PL
+lib/SES/X-Headers.pm
+t/001_load.t
